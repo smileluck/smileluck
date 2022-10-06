@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smileluck
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java
+- 👀 I’m interested in play game
+- 🌱 I’m currently learning math
 - 💞️ I’m looking to collaborate on SmileX
 
 <!---
