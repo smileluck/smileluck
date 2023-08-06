@@ -1,6 +1,6 @@
 # Nice to meet you
 Welcome to my page!
-
+与其相信奇迹，不如成为奇迹。
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=smileluck&show_icons=true&theme=radical"/>
