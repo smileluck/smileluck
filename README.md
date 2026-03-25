@@ -2,7 +2,6 @@
 Welcome to my page!  
 “Don't wait for miracles, be the miracle.”
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=smileluck&show_icons=true&theme=radical"/>
 
 - 👋 Hi, I’m @smileluck, a Fullstack Developer from China.
 - 🌱 Currently, I'm learning Math, English, and Programming.
